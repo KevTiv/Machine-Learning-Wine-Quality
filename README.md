@@ -17,4 +17,4 @@ WINE QUALITY PREDICTION APP
   3. pip install -r requirements.txt 
   4. run in terminal app.py
   next in terminal write command " streamlit run app.py " 
-  OR go directly to the web-app hosted on Heroku.
+  OR go directly to the web-app hosted on Heroku https://winequality-predictor.herokuapp.com
