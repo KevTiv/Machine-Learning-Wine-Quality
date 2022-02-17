@@ -112,7 +112,7 @@ def main():
                 image = Image.open('resources/wineconnaisseur_3.png')
                 st.image(image,use_column_width=True)
         else:
-            st.write("bad quality wine! Do yourself a favor and throw away this thing you call wine....")
+            st.write("Bad quality wine! Do yourself a favor and throw away this thing you call wine....")
             image = Image.open('resources/wineconnaisseur_2.png')
             st.image(image,use_column_width=True)
 
@@ -128,7 +128,7 @@ def main():
                 image = Image.open('resources/wineconnaisseur_3.png')
                 st.image(image,use_column_width=True)
         else:
-            st.write("bad quality wine! Do yourself a favor and throw away this thing you call wine....")
+            st.write("Bad quality wine! Do yourself a favor and throw away this thing you call wine....")
             image = Image.open('resources/wineconnaisseur_2.png')
             st.image(image,use_column_width=True)
 
@@ -144,7 +144,7 @@ def main():
                 image = Image.open('resources/wineconnaisseur_3.png')
                 st.image(image,use_column_width=True)
         else:
-            st.write("bad quality wine! Do yourself a favor and throw away this thing you call wine....")
+            st.write("Bad quality wine! Do yourself a favor and throw away this thing you call wine....")
             image = Image.open('resources/wineconnaisseur_2.png')
             st.image(image,use_column_width=True)
 
