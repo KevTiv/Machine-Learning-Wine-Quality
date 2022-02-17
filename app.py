@@ -104,7 +104,7 @@ def main():
         if(prediction__decis_tree == 1):
             st.write("Good quality wine! This wine is at least a 7 in my expert opinion. You got great test!")
         
-            choose_image = randrange(1)
+            choose_image = randrange(1,2)
             if (choose_image == 1):
                 image = Image.open('resources/wineconnaisseur_1.png')
                 st.image(image,use_column_width=True)
